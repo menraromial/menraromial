@@ -7,5 +7,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=menraromial&theme=nord_bright&exclude={exclude})
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=menraromial&theme=nord_bright&exclude={exclude})
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=menraromial)](https://github.com/ryo-ma/github-profile-trophy)
 
 
