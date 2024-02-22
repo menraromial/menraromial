@@ -4,6 +4,8 @@
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/menraromial/menraromial/blob/main/devcard.svg" width="400" alt="romial menra's Dev Card"/></a>
 
 
+<a href="https://app.daily.dev/menra"><img src="https://api.daily.dev/devcards/v2/Pflgn6KX7FFH4vohO3bGF.png?r=e4e" width="356" alt="romial menra's Dev Card"/></a>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/romial.menra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/menraromial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/menra-wedwang-romial-295a0528a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@menraromial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mwrdev_) 
