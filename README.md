@@ -4,7 +4,7 @@
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/menraromial/menraromial/blob/main/devcard.svg" width="400" alt="romial menra's Dev Card"/></a>
 
 
-<a href="https://app.daily.dev/menra"><img src="https://api.daily.dev/devcards/v2/Pflgn6KX7FFH4vohO3bGF.png?r=e4e" width="356" alt="romial menra's Dev Card"/></a>
+<a href="https://app.daily.dev/menra"><img src="https://api.daily.dev/devcards/v2/Pflgn6KX7FFH4vohO3bGF.png?r=e4e" width="400" alt="romial menra's Dev Card"/></a>
 
 
 ## 🌐 Socials:
