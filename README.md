@@ -2,7 +2,7 @@
 
 
 
-<a href="https://app.daily.dev/menra"><img src="https://api.daily.dev/devcards/v2/Pflgn6KX7FFH4vohO3bGF.png?r=e4e" width="400" alt="romial menra's Dev Card"/></a>
+<a href="https://app.daily.dev/menra"><img src="https://api.daily.dev/devcards/v2/Pflgn6KX7FFH4vohO3bGF.png?type=wide&r=wvw" width="652" alt="romial menra's Dev Card"/></a>
 
 
 ## 🌐 Socials:
